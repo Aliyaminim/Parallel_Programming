@@ -128,5 +128,5 @@ Best performance achieved with 5 threads due to balanced workload and dynamic ta
 | 2       | 0.019     |
 | 3       | 0.015     |
 | 4       | 0.017     |
-| **5**   | **0.007** |
+| **5**   | **0.014** |
 
